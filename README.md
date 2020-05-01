@@ -1,2 +1,2 @@
 # wikipedia_scraping
-Web Scraping project
+Web Scraping project, introductory video for the course "data acquisition & preparation" UVG.
